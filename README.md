@@ -1,1 +1,1 @@
-# mysql_and_javafx_crud_operations
+# JavaFX and MySQL CRUD operations
